@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+image/
+images/
+output/
+livesave/
+*.task
